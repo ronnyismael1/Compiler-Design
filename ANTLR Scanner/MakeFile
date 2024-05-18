@@ -1,0 +1,12 @@
+all: scangrMain
+
+scangrMain: scangrMain.cpp generate/scangrLexer.cpp
+	g++ -I generate -I generate/src -o scangrMain scangrMain.cpp generate/scangrLexer.cpp
+
+run: scangrMain
+	./scangrMain test-in.txt test-out.txt
+
+clean:
+	rm -f scangrMain
+
+.PHONY: all run clean

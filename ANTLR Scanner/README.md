@@ -1,0 +1,3 @@
+Execute MakeFile or run commands in terminal...
+    1.  g++ -I generate -I generate/src -o scangrMain scangrMain.cpp generate/scangrLexer.cpp
+    2.  ./scangrMain test-in.txt test-out.txt

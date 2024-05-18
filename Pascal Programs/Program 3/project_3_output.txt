@@ -1,0 +1,32 @@
+Input file name: /uploads/presidents.txt
+Presidents by Term Served: 
+ Donald Trump  
+ Barack Obama  
+ George W. Bush  
+ Bill Clinton  
+ George H.W. Bush  
+ Ronald Reagan  
+ Jimmy Carter  
+ Gerald Ford  
+ Richard Nixon  
+ Lyndon Johnson  
+ John Kennedy  
+Search Results... 
+0  Donald Trump  
+0  Barack Obama  
+0  George W. Bush  
+0  Bill Clinton  
+0  George H.W. Bush  
+0  Ronald Reagan  
+0  Jimmy Carter  
+0  Gerald Ford  
+0  Richard Nixon  
+0  Lyndon Johnson  
+0  John Kennedy  
+0  Donald Trump  
+0  Barack Obama  
+0  George W. Bush  
+0  Bill Clinton  
+0  George H.W. Bush  
+0  Ronald Reagan  
+0  Jimmy Carter  

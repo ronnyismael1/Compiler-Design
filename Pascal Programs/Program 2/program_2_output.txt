@@ -1,0 +1,16 @@
+How many values for Array A?: 4
+Enter value 1 for Array A: 1
+Enter value 2 for Array A: 4
+Enter value 3 for Array A: 6
+Enter value 4 for Array A: 9
+
+How many values for Array B?: 5
+Enter value 1 for Array B: 4
+Enter value 2 for Array B: 5
+Enter value 3 for Array B: 6
+Enter value 4 for Array B: 8
+Enter value 5 for Array B: 9
+
+1 4 6 9 
+4 5 6 8 9 
+1 4 4 5 6 6 8 9 9 
